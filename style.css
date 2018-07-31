@@ -9,6 +9,7 @@ body {
   text-align: center;
   font-weight: bold;
   font-size: 2em;
+  margin-left: 25px;
 }
 .dicecontainer {
   display: flex;
