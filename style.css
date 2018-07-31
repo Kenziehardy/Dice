@@ -1,0 +1,14 @@
+.dicecontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.die {
+  list-style: none;
+  border: solid black;
+  width: 40px;
+  height: 40px;
+  margin: 20px;
+  text-align: center;
+  background-image: linear-gradient(rgb(144, 230, 137) 40%, rgb(140, 26, 255));
+}
