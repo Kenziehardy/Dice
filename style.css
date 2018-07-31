@@ -1,3 +1,15 @@
+body {
+  background-image: url(https://i.ytimg.com/vi/CQZRUt7aOr0/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.mainbox {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
 .dicecontainer {
   display: flex;
   justify-content: center;
