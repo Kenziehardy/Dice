@@ -9,11 +9,12 @@ body {
   text-align: center;
   font-weight: bold;
   font-size: 2em;
-  margin-left: 25px;
 }
 .dicecontainer {
   display: flex;
   justify-content: center;
+  padding: 0;
+  margin: 0;
 }
 
 .die {
@@ -21,7 +22,10 @@ body {
   border: solid black;
   width: 40px;
   height: 40px;
-  margin: 20px;
   text-align: center;
-  background-image: linear-gradient(rgb(144, 230, 137) 40%, rgb(140, 26, 255));
+  margin-top: 230px;
+  margin-left: 43px;
+  margin-right: 43px;
+  background-image: linear-gradient(rgb(139, 187, 226) 40%, rgb(230, 230, 255));
+  font-weight: bold;
 }
